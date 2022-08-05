@@ -1,6 +1,5 @@
 # Neural Machine Translation
-<img src="https://miro.medium.com/max/1838/1*9RfFciCR6CVTf-MSXo6EHA.png" width="650">
-
+<img src="https://blog.keras.io/img/seq2seq/seq2seq-teacher-forcing.png" width="650">
 This is a repository for my project, wherein I **converted Hebrew to English using Deep Learning**.
 
 The dataset used for the project is the one present on this website - [http://www.manythings.org/anki/](http://www.manythings.org/anki/). It has also been uploaded to this repository. 
